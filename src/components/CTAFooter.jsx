@@ -26,7 +26,7 @@ export function Footer() {
           <a href="#">Status</a>
         </div>
         <div>
-          © 2024 NextPath Architecture. All rights reserved.
+          © 2026 NextPath - All rights reserved.
         </div>
       </div>
     </footer>
